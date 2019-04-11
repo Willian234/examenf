@@ -1,0 +1,73 @@
+body{
+    width: 1000px;
+    height: 6000px;
+    margin: auto;
+    font-size: 12px;
+    margin-top: 30px;
+}
+main{
+    width: 1000px;
+    height: 2200px;
+    position: absolute;
+}
+nav{
+    width: 400px;
+    height: 40px;
+    background: blue;
+    margin-top: 10px;
+}
+button{
+    background: wheat;
+}
+article{
+    margin: auto;
+    width: 800px;
+    height: 500px;
+    background: whitesmoke; 
+}
+div{
+    margin: auto;
+    width: 800px;
+    height: 600px;
+    background: whitesmoke; 
+}
+img{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+left: 0;
+top: 0;
+}
+.buttons{
+margin-top: 40px;
+background: blue;
+height: 40px;
+color: aliceblue;
+}
+a{
+    color: white;
+    cursor: pointer;
+    font-family: 'Great Vibes','cursive';
+    font-size: 30px;
+}
+.main_div
+  {
+  text-align:center;
+  background: #00C492;
+  padding:20px; width: 400px;
+  }
+.inner_div
+  {
+  background: #fff;
+  margin-top:20px;
+  height: 100px;
+  }
+.buttons a
+  {
+  font-size: 16px;
+  }
+.buttons a:hover
+  {
+  cursor:pointer;
+  font-size: 16px;
+  }
